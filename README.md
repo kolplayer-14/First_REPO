@@ -1,10 +1,13 @@
 # Advanced Git Learning
 
 A hands-on repository for learning Git beyond the basic `add`, `commit`, and `push` workflow.
+Not only this it will impart necessary things require to learn for industry but it is not an in - depth 
+module of GIT as GIT in itself is complete ocean and this is just for beginners(like me) trying to improve
+hands on experience.
 
 ## Learning goals
 
-By completing the exercises here, you should be able to:
+By completing the exercises here, I should be able to:
 - Create, rename, compare, and delete branches safely.
 - Merge branches and resolve conflicts.
 - Rebase and use interactive rebase to clean up local history.
